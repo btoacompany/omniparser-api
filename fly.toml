@@ -18,4 +18,3 @@ swap_size_mb = 32768 # 32gb
   memory = '32gb'
   cpu_kind = 'performance'
   cpus = 4
-  gpu_kind = 'l40s'
